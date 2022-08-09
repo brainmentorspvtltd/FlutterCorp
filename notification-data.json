@@ -1,6 +1,6 @@
 {
 	"notificationno": "00203077721112",
-	"appdate": "08-Aug-22",
-	"type": "Meeting",
-	"ctype": "Permanent"
+	"appDate": "08-Aug-22",
+	"appTime": "Meeting",
+	"connectionType": "Permanent"
 }
